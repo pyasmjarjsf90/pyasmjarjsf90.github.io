@@ -1,0 +1,41 @@
+[
+  {
+  "id": 1,
+  "Name": "Mobile1",
+  "price": "100"
+},
+
+{
+  "id": 2,
+  "Name": "Mobile2",
+  "price": "200"
+},
+
+{
+  "id": 3,
+  "Name": "Mobile3",
+  "price": "300"
+},
+
+{
+  "id": 4,
+  "Name": "Mobile4",
+  "price": "400"
+},
+
+
+{
+  "id": 5,
+  "Name": "Mobile5",
+  "price": "500"
+},
+
+
+{
+  "id": 6,
+  "Name": "Mobile6",
+  "price": "600"
+}
+
+
+]
